@@ -1,0 +1,24 @@
+_repo: Society-s-Child-lyrics_3001
+creator:
+  author:
+    agent_name: Ian, Janis
+    alias: Fink, Janis Eddy
+    birthdate: 1951
+    gutenberg_agent_id: '1083'
+    url: http://www.gutenberg.org/2009/agents/1083
+    wikipedia: http://en.wikipedia.org/wiki/Janis_Ian
+description: ''
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3001'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Popular music -- 1961-1970'
+- !lcsh 'Folk songs, English -- United States'
+- !lcc 'M'
+title: Society's Child (lyrics)
+url: http://www.gutenberg.org/ebooks/3001
